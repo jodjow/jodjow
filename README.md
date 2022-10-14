@@ -1,4 +1,5 @@
-
+-I’m interested in Internship and Work in any area of Information Technology;
+-I’m currently learning HTML, CSS, JavaScript and React;
 
  <div>
    <a href="https://github.com/jodjow">
