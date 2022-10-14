@@ -21,8 +21,7 @@
  
 <div> 
   <a href="https://instagram.com/jonatasilva_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/272098810199670788" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jsilva.dias@hotmail.com"><img src="https://img.shields.io/badge/-outlook-lightgrey?logo=microsoftoutlook" target="_blank"></a>
+  <a href = "mailto:jsilva.dias@hotmail.com"><img src="https://img.shields.io/badge/-outlook-lightgrey?style=for-the-badge&logo=microsoftoutlook" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jodjow" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
